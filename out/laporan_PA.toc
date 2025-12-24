@@ -1,14 +1,14 @@
 \babel@toc {indonesian}{}\relax 
 \contentsline {chapter}{HALAMAN PENGESAHAN}{i}{Doc-Start}%
-\contentsline {chapter}{HALAMAN PERNYATAAN BEBAS PLAGIASI}{ii}{Doc-Start}%
-\contentsline {chapter}{HALAMAN MOTTO}{iii}{section*.2}%
-\contentsline {chapter}{KATA PENGANTAR}{iv}{section*.3}%
-\contentsline {chapter}{DAFTAR ISI}{v}{section*.4}%
-\contentsline {chapter}{DAFTAR GAMBAR}{vii}{section*.5}%
-\contentsline {chapter}{DAFTAR TABEL}{viii}{section*.6}%
-\contentsline {chapter}{DAFTAR SINGKATAN}{ix}{section*.7}%
-\contentsline {chapter}{INTISARI}{x}{section*.8}%
-\contentsline {chapter}{ABSTRACT}{xi}{section*.9}%
+\contentsline {chapter}{HALAMAN PERNYATAAN BEBAS PLAGIASI}{iii}{Doc-Start}%
+\contentsline {chapter}{HALAMAN MOTTO}{iv}{section*.2}%
+\contentsline {chapter}{KATA PENGANTAR}{v}{section*.3}%
+\contentsline {chapter}{DAFTAR ISI}{vii}{section*.4}%
+\contentsline {chapter}{DAFTAR GAMBAR}{ix}{section*.5}%
+\contentsline {chapter}{DAFTAR TABEL}{x}{section*.6}%
+\contentsline {chapter}{DAFTAR SINGKATAN}{xi}{section*.7}%
+\contentsline {chapter}{INTISARI}{xii}{section*.8}%
+\contentsline {chapter}{ABSTRACT}{xiii}{section*.9}%
 \contentsline {chapter}{\numberline {1}PENDAHULUAN}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1\hspace {0.05cm}}Latar Belakang}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2\hspace {0.05cm}}Rumusan Masalah}{1}{section.1.2}%

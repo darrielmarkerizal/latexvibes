@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.24)  25 DEC 2025 01:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.24)  25 DEC 2025 02:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -978,7 +978,12 @@ LaTeX Font Info:    Trying to load font information for U+stmry on input line 17
 ])
 \openout2 = `chapters/pengesahan.aux'.
 
- (./chapters/pengesahan.tex)
+ (./chapters/pengesahan.tex
+Overfull \hbox (58.49965pt too wide) in paragraph at lines 60--60
+[]$[]$  
+ []
+
+)
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
@@ -990,11 +995,13 @@ l.24 \include{chapters/pengesahan}
 
 
 ]
+
+[2]
 \openout2 = `chapters/pernyataan.aux'.
 
  (./chapters/pernyataan.tex)
 
-[2
+[3
 
 
 
@@ -1003,7 +1010,7 @@ l.24 \include{chapters/pengesahan}
 
  (./chapters/motto.tex)
 
-[3
+[4
 
 
 
@@ -1011,19 +1018,21 @@ l.24 \include{chapters/pengesahan}
 ]
 \openout2 = `chapters/katapengantar.aux'.
 
- (./chapters/katapengantar.tex)
+ (./chapters/katapengantar.tex
 
-[4
-
-
+[5
 
 
-]
+
+
+])
+
+[6]
 \openout2 = `chapters/daftarisi.aux'.
 
  (./chapters/daftarisi.tex (/Users/darrielmarkerizal/Kuliah/Tugas Akhir/Laporan Akhir/out/laporan_PA.toc
 
-[5
+[7
 
 
 
@@ -1034,7 +1043,7 @@ l.24 \include{chapters/pengesahan}
 
 )
 
-[6]
+[8]
 \openout2 = `chapters/daftargambar.aux'.
 
  (./chapters/daftargambar.tex (/Users/darrielmarkerizal/Kuliah/Tugas Akhir/Laporan Akhir/out/laporan_PA.lof)
@@ -1043,7 +1052,7 @@ l.24 \include{chapters/pengesahan}
 
 )
 
-[7
+[9
 
 
 
@@ -1057,7 +1066,7 @@ l.24 \include{chapters/pengesahan}
 
 )
 
-[8
+[10
 
 
 
@@ -1067,7 +1076,7 @@ l.24 \include{chapters/pengesahan}
 
  (./chapters/daftarsingkatan.tex)
 
-[9
+[11
 
 
 
@@ -1082,7 +1091,7 @@ Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
 
 )
 
-[10
+[12
 
 
 
@@ -1092,7 +1101,7 @@ Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
 
  (./chapters/abstract.tex)
 
-[11
+[13
 
 
 
@@ -1149,7 +1158,7 @@ Bab 3.
 
 
 ]
-<gambar/diagram.png, id=370, 797.74036pt x 257.5221pt>
+<gambar/diagram.png, id=383, 797.74036pt x 257.5221pt>
 File: gambar/diagram.png Graphic file (type png)
 <use gambar/diagram.png>
 Package pdftex.def Info: gambar/diagram.png  used on input line 15.
@@ -1243,18 +1252,18 @@ Package rerunfilecheck Info: File `laporan_PA.out' has not changed.
 (rerunfilecheck)             Checksum: 12D44A31E45A050EE193F3DBAFDDF0A1;6226.
  ) 
 Here is how much of TeX's memory you used:
- 32318 strings out of 474662
- 626958 string characters out of 5751108
- 1157842 words of memory out of 5000000
+ 32325 strings out of 474662
+ 627010 string characters out of 5751108
+ 1157868 words of memory out of 5000000
  54538 multiletter control sequences out of 15000+600000
  565032 words of font info for 58 fonts, out of 8000000 for 9000
  322 hyphenation exceptions out of 8191
  121i,20n,124p,2601b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "/Users/darrielmarkerizal/Kuliah/Tugas Akhir/Laporan Akhir/out/laporan_PA.pdf" (33 pages, 839603 bytes).
+Output written on "/Users/darrielmarkerizal/Kuliah/Tugas Akhir/Laporan Akhir/out/laporan_PA.pdf" (35 pages, 842915 bytes).
 PDF statistics:
- 512 PDF objects out of 1000 (max. 8388607)
- 446 compressed objects within 5 object streams
- 127 named destinations out of 1000 (max. 500000)
+ 526 PDF objects out of 1000 (max. 8388607)
+ 458 compressed objects within 5 object streams
+ 134 named destinations out of 1000 (max. 500000)
  359 words of extra memory for PDF output out of 10000 (max. 10000000)
 
