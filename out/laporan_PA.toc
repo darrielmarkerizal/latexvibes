@@ -1,0 +1,49 @@
+\babel@toc {indonesian}{}\relax 
+\contentsline {chapter}{HALAMAN PENGESAHAN}{i}{Doc-Start}%
+\contentsline {chapter}{HALAMAN PERNYATAAN BEBAS PLAGIASI}{ii}{Doc-Start}%
+\contentsline {chapter}{HALAMAN MOTTO}{iii}{section*.2}%
+\contentsline {chapter}{KATA PENGANTAR}{iv}{section*.3}%
+\contentsline {chapter}{DAFTAR ISI}{v}{section*.4}%
+\contentsline {chapter}{DAFTAR GAMBAR}{vii}{section*.5}%
+\contentsline {chapter}{DAFTAR TABEL}{viii}{section*.6}%
+\contentsline {chapter}{DAFTAR SINGKATAN}{ix}{section*.7}%
+\contentsline {chapter}{INTISARI}{x}{section*.8}%
+\contentsline {chapter}{ABSTRACT}{xi}{section*.9}%
+\contentsline {chapter}{\numberline {1}PENDAHULUAN}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1\hspace {0.05cm}}Latar Belakang}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2\hspace {0.05cm}}Rumusan Masalah}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3\hspace {0.05cm}}Batasan Masalah}{1}{section.1.3}%
+\contentsline {section}{\numberline {1.4\hspace {0.05cm}}Tujuan Penelitian}{1}{section.1.4}%
+\contentsline {section}{\numberline {1.5\hspace {0.05cm}}Manfaat Penelitian}{2}{section.1.5}%
+\contentsline {section}{\numberline {1.6\hspace {0.05cm}}Sistematika Penulisan}{2}{section.1.6}%
+\contentsline {chapter}{\numberline {2}LANDASAN TEORI}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1\hspace {0.05cm}}Tinjauan Pustaka}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2\hspace {0.05cm}}Dasar Teori}{5}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1\hspace {-0.25cm}}Materi Penjelasan Dasar Teori 1}{5}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2\hspace {-0.25cm}}Materi Penjelasan Dasar Teori 2}{5}{subsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {A.\hspace {-0,25cm}}Sub Materi Penjelasan 2}{5}{subsubsection.2.2.2.1}%
+\contentsline {subsubsection}{\numberline {B.\hspace {-0,25cm}}Sub Materi Penjelasan 2}{6}{subsubsection.2.2.2.2}%
+\contentsline {subsubsection}{\numberline {C.\hspace {-0,25cm}}Sub Materi Penjelasan 3}{6}{subsubsection.2.2.2.3}%
+\contentsline {chapter}{\numberline {3}METODOLOGI PENELITIAN}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1\hspace {0.05cm}}Tahapan Penelitian}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2\hspace {0.05cm}}Penjelasan Tahapan Penelitian 1}{8}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1\hspace {-0.25cm}}Sub Penjelasan Tahapan Penelitian 1}{9}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2\hspace {-0.25cm}}Sub Penjelasan Tahapan Penelitian 1}{9}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3\hspace {0.05cm}}Penjelasan Tahapan Penelitian 2}{10}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1\hspace {-0.25cm}}Sub Penjelasan Tahapan Penelitian 2}{10}{subsection.3.3.1}%
+\contentsline {chapter}{\numberline {4}HASIL DAN PEMBAHASAN}{12}{chapter.4}%
+\contentsline {section}{\numberline {4.1\hspace {0.05cm}}Penjelasan Hasil Pembahasan 1}{12}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1\hspace {-0.25cm}}Pengambilan Data}{12}{subsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {A.\hspace {-0,25cm}}Variasi Data 1}{13}{subsubsection.4.1.1.1}%
+\contentsline {subsubsection}{\numberline {B.\hspace {-0,25cm}}Variasi Data 2}{13}{subsubsection.4.1.1.2}%
+\contentsline {subsubsection}{\numberline {C.\hspace {-0,25cm}}Variasi Data 3}{13}{subsubsection.4.1.1.3}%
+\contentsline {subsection}{\numberline {4.1.2\hspace {-0.25cm}}Estimasi Fungsi Alih}{14}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2\hspace {0.05cm}}Ringkasan Hasil Pengujian}{15}{section.4.2}%
+\contentsline {chapter}{\numberline {5}PENUTUP}{16}{chapter.5}%
+\contentsline {section}{\numberline {5.1\hspace {0.05cm}}Kesimpulan}{16}{section.5.1}%
+\contentsline {section}{\numberline {5.2\hspace {0.05cm}}Saran}{16}{section.5.2}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{17}{section*.18}%
+\contentsline {chapter}{LAMPIRAN A}{L - 1}{appendix*.20}%
+\contentsline {section}{\numberline {A}Lembar Perbaikan Proyek Akhir}{L - 1}{section.Alph0.1}%
+\contentsline {chapter}{LAMPIRAN B}{L - 3}{appendix*.22}%
+\contentsline {section}{\numberline {B}Dokumentasi}{L - 3}{section.Alph0.2}%

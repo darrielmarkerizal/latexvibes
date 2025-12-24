@@ -1,0 +1,113 @@
+{
+  // LaTeX Workshop Configuration
+  // Real-time preview dan auto-build settings
+
+  // PDF Viewer - menggunakan internal viewer untuk real-time preview dengan cursor sync
+  "latex-workshop.view.pdf.viewer": "tab",
+
+  // Auto-refresh PDF setelah build (real-time update)
+  "latex-workshop.view.pdf.refresh.viewer": "auto",
+
+  // Cursor sync - highlight posisi di PDF ketika cursor di source code
+  "latex-workshop.synctex.synctexjs.enabled": true,
+  "latex-workshop.view.pdf.internal.synctex.keybinding": "ctrl-click",
+
+  // Forward sync - ketika cursor di source, otomatis highlight di PDF (real-time)
+  "latex-workshop.synctex.afterBuild.enabled": true,
+
+  // Alternatif: External viewer dengan Preview (built-in macOS) - lebih ringan dari Skim
+  // Uncomment baris di bawah jika ingin menggunakan Preview sebagai alternatif
+  // "latex-workshop.view.pdf.viewer": "external",
+  // "latex-workshop.view.pdf.external.viewer.command": "open",
+  // "latex-workshop.view.pdf.external.viewer.args": ["-a", "Preview", "%PDF%"],
+  // "latex-workshop.view.pdf.external.synctex.command": "open",
+  // "latex-workshop.view.pdf.external.synctex.args": ["-a", "Preview", "%PDF%"],
+
+  // Auto-build saat file disimpan
+  "latex-workshop.latex.autoBuild.run": "onSave",
+
+  // Auto-clean file temporary setelah build
+  "latex-workshop.latex.autoClean.run": "onBuilt",
+
+  // Root file LaTeX (file utama)
+  "latex-workshop.latex.rootFile": "laporan_PA.tex",
+
+  // Recipe untuk build LaTeX (menggunakan pdflatex)
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "pdflatex ➞ bibtex ➞ pdflatex × 2",
+      "tools": ["pdflatex", "bibtex", "pdflatex", "pdflatex"]
+    },
+    {
+      "name": "pdflatex",
+      "tools": ["pdflatex"]
+    }
+  ],
+
+  // Tools untuk build
+  "latex-workshop.latex.tools": [
+    {
+      "name": "pdflatex",
+      "command": "pdflatex",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-output-directory=%OUTDIR%",
+        "%DOC%"
+      ],
+      "env": {
+        "PATH": "/Library/TeX/texbin:/usr/local/bin:/usr/bin:/bin"
+      }
+    },
+    {
+      "name": "bibtex",
+      "command": "/bin/sh",
+      "args": [
+        "-c",
+        "cd '%OUTDIR%' && BSTINPUTS='%DIR%:' BIBINPUTS='%DIR%:' /Library/TeX/texbin/bibtex '%DOCFILE%'"
+      ],
+      "env": {
+        "PATH": "/Library/TeX/texbin:/usr/local/bin:/usr/bin:/bin",
+        "TEXMFHOME": "/usr/local/texlive/2025basic/texmf-dist"
+      }
+    }
+  ],
+
+  // Output directory untuk file build (agar tidak mengotori folder utama)
+  "latex-workshop.latex.outDir": "%DIR%/out",
+
+  // Clean patterns untuk file yang akan dibersihkan
+  "latex-workshop.latex.clean.fileTypes": [
+    "*.aux",
+    "*.bbl",
+    "*.blg",
+    "*.idx",
+    "*.ind",
+    "*.lof",
+    "*.lot",
+    "*.out",
+    "*.toc",
+    "*.acn",
+    "*.acr",
+    "*.alg",
+    "*.glg",
+    "*.glo",
+    "*.gls",
+    "*.fls",
+    "*.log",
+    "*.fdb_latexmk",
+    "*.snm",
+    "*.nav",
+    "*.synctex.gz"
+  ],
+
+  // Real-time preview settings
+  "latex-workshop.view.pdf.tab.editor.enabled": true,
+
+  // Auto-reload PDF ketika file berubah (real-time update)
+  "latex-workshop.view.pdf.internal.autoReload": "onFileChange",
+
+  // Zoom settings untuk PDF viewer
+  "latex-workshop.view.pdf.zoom": "page-width"
+}
